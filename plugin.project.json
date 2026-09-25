@@ -1,0 +1,8 @@
+{
+  "name": "StudioBridge",
+  "tree": {
+    "$path": "plugin/StudioBridge.server.luau",
+    "Core": { "$path": "plugin/Core.luau" },
+    "Fiu": { "$path": "plugin/Fiu.luau" }
+  }
+}
