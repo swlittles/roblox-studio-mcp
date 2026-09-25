@@ -58,4 +58,6 @@ Register the server in any MCP client:
 { "mcpServers": { "roblox-studio": { "command": "node", "args": ["/abs/path/studio-mcp/server.mjs"] } } }
 ```
 
-Third-party code: see `THIRD_PARTY_NOTICES.md` (Fiu, MIT).
+## License
+
+MIT, see `LICENSE`. Third-party code: see `THIRD_PARTY_NOTICES.md` (Fiu, MIT).
